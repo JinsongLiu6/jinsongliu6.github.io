@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Jinsong Liu",
+    "label": "Postdoctoral Associate",
+    "image": "",
+    "email": "liujs598@gmail.com",
+    "phone": "",
+    "summary": "Reinforcement learning researcher working on agentic reasoning, tool-use, and optimization, with applications in healthcare AI.",
+    "location": {
+      "city": "New York",
+      "countryCode": "US",
+      "region": "NY"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "JinsongLiu6",
+        "url": "https://github.com/JinsongLiu6"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Pokee AI",
+      "position": "Algorithm Research Scientist (Advisor)",
+      "location": "Remote",
+      "startDate": "2025-01-01",
+      "endDate": "2025-05-01",
+      "summary": "",
+      "highlights": [
+        "Designed and implemented state-of-the-art reinforcement learning algorithms for tool-use agents",
+        "Co-architected DeepResearch agents achieving SOTA performance among similar-scale open-source models",
+        "Open-sourced implementation garnered 1,500+ stars"
+      ]
+    },
+    {
+      "name": "Cardinal Operations (Shanshu)",
+      "position": "Algorithm Research Intern",
+      "location": "Shanghai, China",
+      "startDate": "2023-04-01",
+      "endDate": "2025-04-01",
+      "summary": "",
+      "highlights": [
+        "Architected production-grade mathematical optimization solvers (LP, QP, SOCP, SDP) from scratch",
+        "Pioneered deep reinforcement learning integration for optimization problems",
+        "Led development of industry's first GPU-accelerated LP solver in C/CUDA (200+ stars)",
+        "Spearheaded CUDA optimization strategies for parallel algorithm deployment"
+      ]
+    },
+    {
+      "name": "JD.com",
+      "position": "Algorithm Research Intern",
+      "location": "Beijing, China",
+      "startDate": "2021-12-01",
+      "endDate": "2022-08-01",
+      "summary": "",
+      "highlights": [
+        "Developed multi-agent coordination algorithms for automated warehouse systems",
+        "Deployed learning-based scheduling framework reducing task incompletion rate by 90%"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cornell University",
+      "location": "New York, NY",
+      "url": "https://weill.cornell.edu/",
+      "area": "AI for Healthcare",
+      "studyType": "Postdoctoral Associate, Weill Cornell Medicine",
+      "startDate": "2025-06-01",
+      "endDate": "",
+      "highlights": []
+    },
+    {
+      "institution": "Cornell University",
+      "location": "Ithaca, NY",
+      "url": "https://business.cornell.edu/",
+      "area": "LLM Agent for Decision Making",
+      "studyType": "Visiting PhD Student, SC Johnson College of Business",
+      "startDate": "2024-07-01",
+      "endDate": "2025-05-01",
+      "highlights": []
+    },
+    {
+      "institution": "Shanghai University of Finance and Economics",
+      "location": "Shanghai, China",
+      "url": "https://english.sufe.edu.cn/",
+      "area": "Management Science and Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2020-09-01",
+      "endDate": "2025-05-01",
+      "highlights": []
+    },
+    {
+      "institution": "Tianjin University",
+      "location": "Tianjin, China",
+      "area": "Electronic Engineering / Computer Science (Double Degree)",
+      "studyType": "B.E. / B.S.",
+      "startDate": "2016-08-01",
+      "endDate": "2020-06-01",
+      "highlights": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "CUDA", "Julia", "C/C++", "Matlab", "SQL"]
+    },
+    {
+      "name": "Optimization/Modeling",
+      "level": "",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": ["Gurobi", "COPT", "MOSEK", "CLP", "Cplex"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": []
+}

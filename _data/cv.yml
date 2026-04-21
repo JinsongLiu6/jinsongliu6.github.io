@@ -1,0 +1,92 @@
+cv:
+  name: Jinsong Liu
+  label: Postdoctoral Associate
+  email: liujs598@gmail.com
+  location: New York, NY
+  image: ""
+  summary: Reinforcement learning researcher working on agentic reasoning, tool-use, and optimization, with applications in healthcare AI.
+
+  social_networks:
+    - network: GitHub
+      username: JinsongLiu6
+
+  sections:
+    Education:
+      - institution: Cornell University
+        location: New York, NY
+        url: https://weill.cornell.edu/
+        area: AI for Healthcare
+        studyType: Postdoctoral Associate, Weill Cornell Medicine
+        start_date: 2025-06
+        end_date:
+        highlights:
+          - "Research direction: AI for Healthcare"
+
+      - institution: Cornell University
+        location: Ithaca, NY
+        url: https://business.cornell.edu/
+        area: LLM Agent for Decision Making
+        studyType: Visiting PhD Student, SC Johnson College of Business
+        start_date: 2024-07
+        end_date: 2025-05
+        highlights:
+          - "Research direction: LLM Agent for Decision Making"
+
+      - institution: Shanghai University of Finance and Economics
+        location: Shanghai, China
+        url: https://english.sufe.edu.cn/
+        area: Management Science and Engineering
+        studyType: Ph.D.
+        start_date: 2020-09
+        end_date: 2025-05
+        highlights:
+          - "Thesis: Efficient and Adaptive Reinforcement Learning: Explorations and Improvements in Value Iteration, Policy Optimization, and Reward Preference Modeling"
+
+      - institution: Tianjin University
+        location: Tianjin, China
+        area: Electronic Engineering / Computer Science
+        studyType: B.E. / B.S. (Double Degree)
+        start_date: 2016-08
+        end_date: 2020-06
+
+    Experience:
+      - company: Pokee AI
+        position: Algorithm Research Scientist (Advisor)
+        location: Remote
+        start_date: 2025-01
+        end_date: 2025-05
+        highlights:
+          - Designed and implemented state-of-the-art reinforcement learning algorithms for tool-use agents
+          - Co-architected DeepResearch agents achieving SOTA performance among similar-scale open-source models
+          - Open-sourced implementation garnered 1,500+ stars
+
+      - company: Cardinal Operations (Shanshu)
+        position: Algorithm Research Intern
+        location: Shanghai, China
+        start_date: 2023-04
+        end_date: 2025-04
+        highlights:
+          - Architected production-grade mathematical optimization solvers (LP, QP, SOCP, SDP) from scratch
+          - Pioneered deep reinforcement learning integration for optimization problems
+          - Led development of industry's first GPU-accelerated LP solver in C/CUDA (200+ stars)
+          - Spearheaded CUDA optimization strategies for parallel algorithm deployment
+
+      - company: JD.com
+        position: Algorithm Research Intern
+        location: Beijing, China
+        start_date: 2021-12
+        end_date: 2022-08
+        highlights:
+          - Developed multi-agent coordination algorithms for automated warehouse systems
+          - Deployed learning-based scheduling framework reducing task incompletion rate by 90%
+
+    Skills:
+      - name: Programming
+        level: ""
+        icon: fa-solid fa-code
+        keywords: "Python, CUDA, Julia, C/C++, Matlab, SQL"
+
+      - name: Optimization/Modeling
+        level: ""
+        icon: fa-solid fa-chart-line
+        keywords: "Gurobi, COPT, MOSEK, CLP, Cplex"

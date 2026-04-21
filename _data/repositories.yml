@@ -1,0 +1,9 @@
+github_users:
+  - JinsongLiu6
+
+repo_description_lines_max: 2
+
+github_repos:
+  - Pokee-AI/PokeeResearchOSS
+  - COPT-Public/cuPDLP-C
+  - leavesgrp/ABIP

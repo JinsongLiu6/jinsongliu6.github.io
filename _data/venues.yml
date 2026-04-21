@@ -1,0 +1,11 @@
+"AAAI":
+  url: https://aaai.org/
+  color: "#007bff"
+
+"IJOC":
+  url: https://pubsonline.informs.org/journal/ijoc
+  color: "#28a745"
+
+"ACM TOMS":
+  url: https://dl.acm.org/journal/toms
+  color: "#dc3545"
